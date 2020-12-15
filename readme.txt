@@ -1,8 +1,8 @@
 === Sensei LMS Modules for Divi ===
 Contributors: donnapep
 Tags: online course, divi, sensei lms
-Requires at least: 5.3
-Tested up to: 5.5
+Requires at least: 5.4
+Tested up to: 5.6
 Requires PHP: 7.0
 Stable tag: 1.0.0
 License: GPLv2 or later
