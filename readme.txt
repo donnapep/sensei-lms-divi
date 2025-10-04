@@ -8,6 +8,8 @@ Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
+This extension has been retired and is no longer being actively maintained.
+
 Edit and style Sensei LMS elements using the Divi Builder.
 
 == Description ==
