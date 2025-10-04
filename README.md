@@ -1,4 +1,6 @@
 # Sensei LMS Modules for Divi
+**THIS EXTENSION HAS BEEN RETIRED AND IS NO LONGER BEING MAINTAINED.**
+
 Edit and style Sensei LMS elements using the Divi Builder.
 
 This project was bootstrapped with [Create Divi Extension](https://github.com/elegantthemes/create-divi-extension).
